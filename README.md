@@ -1,4 +1,4 @@
-# RL-Project - Stock Trading
+# Automated Stock Trading: An Ensemble Strategy
 ​		A **Reproducibility Study** of Hongyang Yang et al. [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3690996).
 
 ### Prerequisites
