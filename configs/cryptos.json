@@ -1,0 +1,14 @@
+{
+"data_name": "crypto",
+"rebalance_window": 21,
+"date_start_train": "2014/9/18",
+"date_start_validation": "2018/10/1",
+"date_start_trade": "2019/1/1",
+"date_end": "2021/10/31",
+"timesteps": [300000, 1000000, 100000],
+"shares_per_trade": 100,
+"initial_balance": 1000000,
+"transac_fee": 0.001,
+"reward_scaling": 1e-4,
+"turbulence_threshold": 200
+}

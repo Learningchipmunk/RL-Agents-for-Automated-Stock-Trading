@@ -1,0 +1,14 @@
+{
+    "data_name": "dow_30",
+    "rebalance_window": 21,
+    "date_start_train": "2009/1/1",
+    "date_start_validation": "2015/10/1",
+    "date_start_trade": "2016/1/1",
+    "date_end": "2020/5/8",
+    "timesteps": [ 30000, 100000, 10000 ],
+    "shares_per_trade": 100,
+    "initial_balance": 1000000,
+    "transac_fee": 0.001,
+    "reward_scaling": 1e-4,
+    "turbulence_threshold": 100
+}

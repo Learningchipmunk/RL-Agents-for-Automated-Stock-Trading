@@ -1,0 +1,14 @@
+## Ignore jupyter crap
+.ipynb_checkpoints
+
+## Ignore venv and python crap
+rl_env
+**/__pycache__
+
+## Ignores data
+data/*.csv
+
+
+## Ignores results
+figures/*.png
+Results/
