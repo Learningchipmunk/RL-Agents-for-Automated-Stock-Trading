@@ -43,6 +43,5 @@ It is possible to run the algorithms on the following stock groups: dow_30, nas_
 
 ### Authors
 
-[Jean-Charles LAYOUN](https://www.linkedin.com/in/JClayoun). Can be contacted at [jean-charles.layoun@polytechnique.edu](mailto:jean-charles.layoun@polytechnique.edu).
-[Alexis ROGET](https://www.linkedin.com/in/alexisroger99/). Can be contacted at [alexis.roger@umontreal.ca](mailto:alexis.roger@umontreal.ca).
-
+[Jean-Charles LAYOUN](https://www.linkedin.com/in/JClayoun). Can be contacted at [jean-charles.layoun@polytechnique.edu](mailto:jean-charles.layoun@polytechnique.edu). <br>
+[Alexis ROGER](https://www.linkedin.com/in/alexisroger99/). Can be contacted at [alexis.roger@umontreal.ca](mailto:alexis.roger@umontreal.ca).
