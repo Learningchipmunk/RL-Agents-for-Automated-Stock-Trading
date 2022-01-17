@@ -40,3 +40,9 @@ python3 preprocessandtrainenv.py --ConfigName=auteurs
 ### Different trading environments
 
 It is possible to run the algorithms on the following stock groups: dow_30, nas_100, sp_500, faang, crypto (BTC, ETH, LTC, BCH Vs USD), memes (ETH, LTC, BCH, DOGE, SHIB, UNI3 Vs BTC).
+
+### Authors
+
+[Jean-Charles LAYOUN](https://www.linkedin.com/in/JClayoun). Can be contacted at [jean-charles.layoun@polytechnique.edu](mailto:jean-charles.layoun@polytechnique.edu).
+[Alexis ROGET](https://www.linkedin.com/in/alexisroger99/). Can be contacted at [alexis.roger@umontreal.ca](mailto:alexis.roger@umontreal.ca).
+
